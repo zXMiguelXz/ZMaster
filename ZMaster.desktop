@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ZMaster
+Comment=Compress and extract ZIP files
+Exec=/usr/local/bin/ZMaster-V1.AppImage
+Icon=/etc/zmaster/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Archiving;
